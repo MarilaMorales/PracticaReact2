@@ -1,6 +1,7 @@
 import React from 'react'
 import NavBar from '../Componentes/NavBar.jsx'
 import Card from '../Componentes/Card.jsx'
+import List from "../Componentes/List.jsx"
 
 
 
@@ -10,6 +11,7 @@ import Card from '../Componentes/Card.jsx'
     <div>
     <NavBar />
     <Card />
+    <List />
 
   </div>
   )
